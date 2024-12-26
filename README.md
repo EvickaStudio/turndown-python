@@ -6,6 +6,8 @@ This version has been translated to Python (with a lot of help from my friend ch
 
 As an extra this libary uses no external dependencies.
 
+Made for [Moodle-Mate](https://github.com/EvickaStudio/Moodle-Mate)
+
 ## Usage
 
 Here is an simple example of how to use the library:
